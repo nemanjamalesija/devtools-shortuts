@@ -1,71 +1,88 @@
-h1. Chrome Developer Tools - Useful Shortcuts (Mac OS X)
+# Chrome Developer Tools - Useful Shortcuts (Mac OS X)
 
-h2. General
+## General
 
-| ⌥⌘I | Toggle Developer Tools |
-| ⌥⌘C | Toggle JavaScript Console |
-| ⌥⌘U | Show Source |
+| Shortcut | Action                      |
+|----------|-----------------------------|
+| ⌥⌘I      | Toggle Developer Tools      |
+| ⌥⌘C      | Toggle JavaScript Console   |
+| ⌥⌘U      | Show Source                 |
 
-h2. All Panels
+## All Panels
 
-| ⌘[/⌘]    | Go to the panel to the left/right |
-| ⌥⌘[/⌥⌘] | Go back/f or ward in panel history |
-| ⎋         | Toggle console |
-| ⌘F        | Search |
-| ⌥⌘F      | Search across all sources |
-| ⇧⌘C      | Select node to inspect |
-| ⌘O        | Go to source |
-| ⌘G/⇧⌘G  | Find next/previous |
-| ⌘L        | Go to line |
-| F1 or ?    | Show general settings |
+| Shortcut       | Action                              |
+|----------------|-------------------------------------|
+| ⌘[/⌘]         | Go to the panel to the left/right   |
+| ⌥⌘[/⌥⌘]      | Go back/forward in panel history    |
+| ⎋              | Toggle console                     |
+| ⌘F            | Search                              |
+| ⌥⌘F          | Search across all sources           |
+| ⇧⌘C          | Select node to inspect              |
+| ⌘O            | Go to source                       |
+| ⌘G/⇧⌘G      | Find next/previous                  |
+| ⌘L            | Go to line                         |
+| F1 or ?        | Show general settings              |
 
-h2. Console
+## Console
 
-| ⌘K or ⌃L  | Clear console |
-| ⇥         | Autocomplete common prefix |
-| →          | Accept suggestion |
-| ↓/↑        | Next/previous line |
-| ⌥N/⌥P    | Next/previous command |
-| ↩         | Execute command |
+| Shortcut       | Action                              |
+|----------------|-------------------------------------|
+| ⌘K or ⌃L     | Clear console                       |
+| ⇥              | Autocomplete common prefix         |
+| →              | Accept suggestion                  |
+| ↓/↑            | Next/previous line                 |
+| ⌥N/⌥P        | Next/previous command               |
+| ↩              | Execute command                    |
 
-h2. Elements Panel
+## Elements Panel
 
-| ↑/↓  | Navigate elements |
-| →/← | Expand/collapse |
-| ↩   | Edit attribute |
-| H    | Hide element |
-| F2   | Toggle edit as HTML |
+| Shortcut       | Action                              |
+|----------------|-------------------------------------|
+| ↑/↓            | Navigate elements                  |
+| →/←           | Expand/collapse                    |
+| ↩              | Edit attribute                     |
+| H              | Hide element                       |
+| F2             | Toggle edit as HTML                |
 
-h2. Styles Pane
+## Styles Pane
 
-| ⇥/⇧⇥  | Next/previous property |
-| ↑       | Increment value |
-| ↓       | Decrement value |
-| ⇞ or ⇧↑  | Increment by 10 |
-| ⇟ or ⇧↓  | Decrement by 10 |
-| ⇧⇞     | Increment by 100 |
-| ⇧⇟     | Decrement by 100 |
-| ⌥⇞     | Increment by 0.1 |
-| ⌥⇟     | Decrement by 0.1 |
+| Shortcut       | Action                              |
+|----------------|-------------------------------------|
+| ⇥/⇧⇥          | Next/previous property              |
+| ↑              | Increment value                    |
+| ↓              | Decrement value                    |
+| ⇞ or ⇧↑        | Increment by 10                    |
+| ⇟ or ⇧↓        | Decrement by 10                    |
+| ⇧⇞            | Increment by 100                   |
+| ⇧⇟            | Decrement by 100                   |
+| ⌥⇞            | Increment by 0.1                   |
+| ⌥⇟            | Decrement by 0.1                   |
 
-h2. Sources Panel
+## Sources Panel
 
-| F8           | Pause/Continue |
-| F10 or ⌘'     | Step over |
-| F11 or ⌘;     | Step into |
-| ⇧F11 or ⇧⌘; | Step out |
-| ⌃./⌃,       | Next/previous call frame |
-| ⌃⇧E         | Evaluate selection in console |
-| ⇧⌘O        | Go to member |
-| ⌘B          | Toggle breakpoint |
-| ⌘/          | Toggle comment |
+| Shortcut       | Action                              |
+|----------------|-------------------------------------|
+| F8             | Pause/Continue                     |
+| F10 or ⌘'     | Step over                          |
+| F11 or ⌘;     | Step into                          |
+| ⇧F11 or ⇧⌘; | Step out                            |
+| ⌃./⌃,         | Next/previous call frame           |
+| ⌃⇧E          | Evaluate selection in console      |
+| ⇧⌘O          | Go to member                       |
+| ⌘B            | Toggle breakpoint                  |
+| ⌘/            | Toggle comment                     |
 
-h2. Timeline Panel
+## Timeline Panel
 
-| ⌘E | Start/stop recording |
-| ⌘S | Save timeline data |
-| ⌘O | Load timeline data |
+| Shortcut       | Action                              |
+|----------------|-------------------------------------|
+| ⌘E            | Start/stop recording               |
+| ⌘S            | Save timeline data                 |
+| ⌘O            | Load timeline data                 |
 
-h2. Profiles Panel
+## Profiles Panel
 
-| ⌘E | Start/stop recording |
+| Shortcut       | Action                              |
+|----------------|-------------------------------------|
+| ⌘E            | Start/stop recording               |
+
